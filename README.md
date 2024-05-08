@@ -206,7 +206,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-<hr>
+
 <h2>Sample Input and Output:</h2>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8d5e329a-9aff-41a6-bcf0-46efa10e1b92)

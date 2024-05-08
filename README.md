@@ -26,7 +26,7 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 
 ## PROGRAM :
 
-```
+<code>
 import time
 
 class Game:
@@ -205,7 +205,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
+</code>
 
 <h2>Sample Input and Output:</h2>
 
